@@ -1,5 +1,3 @@
-### README for Kata 4: Email Histogram
-
 # Kata 4: Email Histogram
 
 ## Problem Description
